@@ -273,7 +273,7 @@ FROM pivoted;
 ### **Insight 1: Early Adoption Improves Retention**
 
 <figure>
-  <img src="C:/Users/rykad/OneDrive/Pictures/weekly retention rate.jpg" width=100% height=100% alt="alt text">
+  <img src="images/weekly-retention-rate.jpg" width=100% height=100% alt="alt text">
   <figcaption>Figure: Weekly Retention Rate</figcaption>
 </figure>
 </br></br>
@@ -294,7 +294,7 @@ FROM pivoted;
 
 ### **Insight 2: Adopters Churn More**
 <figure>
-  <img src="C:/Users/rykad/OneDrive/Pictures/plan change by cohort.jpg" width=100% height=100% alt="alt text">
+  <img src="images/plan-change-by-cohort.jpg" width=100% height=100% alt="alt text">
   <figcaption>Figure: Plan Change</figcaption>
 </figure>
 </br></br>
