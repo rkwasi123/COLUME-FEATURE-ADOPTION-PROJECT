@@ -7,7 +7,7 @@
 
 ## Brief Details about the project
 **Project Duration:** February – April 2025  
-**Prepared by:** Analytics Team  
+**Prepared by:** Raymond Kadzashie  
 **Primary Stakeholder:** Product Team  
 
 ## 1. Project Overview
@@ -343,4 +343,11 @@ Feature adoption didn't drive upsells
 
 Early adoption drives higher retention and engagement. 
 With nudges, better onboarding, and feature reinforcement, Colume can improve long-term retention and conversion.
+
+---
+
+## 14. 📬 Contact Information
+👤 [Raymond Kadzashie]  
+📧 [rykadzashie@outlook.com]  
+💼 [LinkedIn](https://www.linkedin.com/in/raymond-kadzashie/) 
 
